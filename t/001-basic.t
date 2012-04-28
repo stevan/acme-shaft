@@ -35,7 +35,7 @@ ok( $shaft->is_a_bad_mother, '... Shut your mouth' );
 ok( $shaft->but_i'm_talkin'about_shaft(), '... Then we can dig it');
 
 ok(
-    $shaft->he::s_a_complicated_man::but_no_one_understands_him_but_his_woman(),
+    $shaft->he's_a_complicated_man::but_no_one_understands_him_but_his_woman(),
     '... John Shaft'
 );
 
